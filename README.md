@@ -8,8 +8,11 @@ Data Description:
 The Dataset is consists of 2998 images, divided into training (2392 images) and testing ( 597 images) folders. Each folder contains two files (flip) and (notflip) for categorizing the images. 
 
 
-Goal(s):
-Building a Deep Learning model that could detect if the page is flipped or not flipped based on the given scanned photo for the book.
+Methodology:
+1. Building a Deep Learning model that could detect if the page is flipped or not flipped based on the given scanned photo for the book.
+2. 
+3.
 
-Result:
+
+Conclusion:
 By applying Convolutional Neural Networks (CNNs), the result reached to above 99% of Accuracy for detecting the images.
