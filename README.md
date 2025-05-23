@@ -1,14 +1,14 @@
 # MonReader 
 
-Introduction:
+# Introduction:
 Developed an intelligent document scanning system for Hardware and vision field that could help blinders, and researchers for an automatic scanning of the content based on flipping the pages of the book.
 
 
-Data Description:
+# Data Description:
 The Dataset is consists of 2989 images, divided into training (2392 images) and testing ( 597 images) folders. Each folder contains two files (flip) and (notflip) for categorizing the images. 
 
 
-Methodology:
+# Methodology:
 1. Importing the images into specified paths for each set of the dataset. data path for importing the entire dataset, training_path for importing the training set, and testing_path for importing the testing set.
 2. Resizing all images of the imported dataset into 224 x 224 shape.
 3. Labeling the dataset as same as its structure for 'flip' and 'notflip' images.
@@ -20,5 +20,5 @@ Methodology:
 9. Saving the model.
 
 
-Conclusion:
-By applying Convolutional Neural Networks (CNNs), the result reached to above 100% of Accuracy for detecting the images using training dataset, and 99.92% of Accuracy using testing dataset.
+# Conclusion:
+By applying Convolutional Neural Network (CNN), the result reached to above 100% of Accuracy for detecting the images using training dataset, and 99.92% of Accuracy using testing dataset.
