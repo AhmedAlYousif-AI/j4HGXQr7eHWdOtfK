@@ -1,11 +1,11 @@
 # MonReader 
 
 Introduction:
-Developing an intelligent document scanning system for Hardware and vision field that could help blinders, and researchers for an automatic scanning of the content based on flipping the pages of the book.
+Developed an intelligent document scanning system for Hardware and vision field that could help blinders, and researchers for an automatic scanning of the content based on flipping the pages of the book.
 
 
 Data Description:
-The Dataset is consists of 2998 images, divided into training (2392 images) and testing ( 597 images) folders. Each folder contains two files (flip) and (notflip) for categorizing the images. 
+The Dataset is consists of 2989 images, divided into training (2392 images) and testing ( 597 images) folders. Each folder contains two files (flip) and (notflip) for categorizing the images. 
 
 
 Methodology:
