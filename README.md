@@ -21,4 +21,4 @@ The Dataset is consists of 2989 images, divided into training (2392 images) and 
 
 
 # Conclusion:
-By applying Convolutional Neural Network (CNN), the result reached to 100% of Accuracy for detecting the images using training dataset, and 99.92% of Accuracy using testing dataset.
+By applying Convolutional Neural Networks (CNN), the result reached to 100% of Accuracy for detecting the images using training dataset, and 99.92% of Accuracy using testing dataset.
